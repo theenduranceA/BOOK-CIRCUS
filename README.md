@@ -1,8 +1,8 @@
 # BOOK CIRCUS
 
-# Welcome to Book Circus - Your Spectacular Book Discovery Experience!
+Welcome to Book Circus - Your Spectacular Book Discovery Experience!
 
-# Book Circus is a web application designed to help users discover and explore a vast library of books. Whether you're an avid reader looking for your next favorite novel, a student searching for educational resources, or simply curious about what's trending in literature, Book Circus has you covered.
+#Book Circus is a web application designed to help users discover and explore a vast library of books. Whether you're an avid reader looking for your next favorite novel, a student searching for educational resources, or simply curious about what's trending in literature, Book Circus has you covered.
 
 # FEATURES
 
