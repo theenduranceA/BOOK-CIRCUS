@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+:root {
+  --color: linear-gradient(rgba(48, 158, 44, 0.3), rgba(52, 138, 59, 0.5));
+  --hover-color: #ff6347;
+  --white: #f9f4f4;
+  --background-color: #072c17;
+  --main-font: 'Times New Roman', Times, serif, sans-serif;
+  --color: hsl(146, 73%, 10%);
+}
+
+* {
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+.App {
+font-family: 'Times New Roman', Times, serif, sans-serif;
+margin: 0px;
+padding: 0px;
+justify-content: space-between;
+box-sizing: border-box;
+image-rendering: auto;
+min-height: 75vh;
+background: linear-gradient(rgba(48, 158, 44, 0.3), rgba(52, 138, 59, 0.5)), url("./images/Bookcircus4.jpg") center/cover no-repeat;
+}
+
+.app-img {
+height: auto;
+width: 100%;
+margin: 0 auto;
+margin-left: 0;
+}
+
+.container{
+max-width: 1200px;
+margin: 0 auto;
+padding: 0 2rem;
+}
